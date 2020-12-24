@@ -31,5 +31,10 @@ body{
 }
 #post{
     padding: 1em;
-
+}
+#footer{
+    padding: 0;
+    margin: 0%;
+    border: 1px solid beige;
+    text-align: center;
 }
