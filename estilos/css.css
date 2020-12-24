@@ -33,3 +33,10 @@ body{
     padding: 1em;
 
 }
+.footer{
+    background-color:gray;
+    padding: 2px;
+    margin: 0px;
+    text-align: center;
+    color:white;
+}
