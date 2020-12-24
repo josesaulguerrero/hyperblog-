@@ -32,12 +32,10 @@ body{
 }
 #post{
     padding: 1em;
-
 }
-.footer{
-    background-color:gray;
-    padding: 2px;
-    margin: 0px;
+#footer{
+    padding: 0;
+    margin: 0%;
+    border: 1px solid beige;
     text-align: center;
-    color:white;
 }
